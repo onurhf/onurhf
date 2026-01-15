@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Here is Onur, Founding Engineer at TextCortex. This is my work account, you are probably looking for my [personal one](https://github.com/osolmaz).
+
+Also, check out my [blog](https://solmaz.io)
+
 <!--
 **onutc/onutc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
